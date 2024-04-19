@@ -3,4 +3,4 @@ My first attempt at animations, combined with what I think are pretty cool level
 
 ![Platforming](2Djumping.gif)
 
-https://github.com/HoldenErnest/2DPlatform/blob/main/2DtutorialLevel.mp4
+![Fighting](2DtutorialLevel.gif)
